@@ -16,9 +16,11 @@ class BATTLETANK_API ATankAIController : public AAIController
 	GENERATED_BODY()
 	//Sets up pointer to get the Tank that is being controlled by the player 
 	
-public:
+private:
 		ATank* GetControlledTank() const;
 
 		virtual void BeginPlay() override;
+
+		ATank* GetPlayerTank() const;
 
 };

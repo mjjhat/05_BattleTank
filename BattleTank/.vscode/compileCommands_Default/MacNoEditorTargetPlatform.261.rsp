@@ -1,5 +1,5 @@
 /FI"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\MacNoEditorTargetPlatform\Definitions.MacNoEditorTargetPlatform.h"
-/FI"C:\Users\Findel\Documents\repo\05_BattleTank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\05_BattleTank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /I"C:\Program Files\Epic Games\UE_4.26\Engine\Source"
 /I"C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\Mac\MacNoEditorTargetPlatform\Private"
 /I"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Core"

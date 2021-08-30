@@ -1,27 +1,77 @@
 [
 	{
-		"file": "C:\\\\Users\\\\Findel\\\\Documents\\\\repo\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.Build.cs",
-		"command": "cl.exe @\"C:\\Users\\Findel\\Documents\\repo\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.182.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\Findel\\\\Documents\\\\repo\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.cpp",
-		"command": "cl.exe @\"C:\\Users\\Findel\\Documents\\repo\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.182.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\Findel\\\\Documents\\\\repo\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.h",
-		"command": "cl.exe @\"C:\\Users\\Findel\\Documents\\repo\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.182.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTank.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\Findel\\\\Documents\\\\repo\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTankGameModeBase.cpp",
-		"command": "cl.exe @\"C:\\Users\\Findel\\Documents\\repo\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.182.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTankGameModeBase.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\Findel\\\\Documents\\\\repo\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTankGameModeBase.h",
-		"command": "cl.exe @\"C:\\Users\\Findel\\Documents\\repo\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.182.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\BattleTankGameModeBase.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Private\\\\Tank.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Private\\\\TankAIController.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Private\\\\TankC.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Private\\\\Tankd.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Public\\\\Tank.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Public\\\\TankAIController.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Public\\\\TankC.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\Public\\\\Tankd.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankPlayerController.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\UnrealProjects\\\\05_BattleTank\\\\BattleTank\\\\Source\\\\BattleTank\\\\TankPlayerController.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\UnrealProjects\\05_BattleTank\\BattleTank\\.vscode\\compileCommands_BattleTank\\BattleTank.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
 	}
 ]
